@@ -2,7 +2,7 @@ var linebot = require('linebot');
 var express = require('express');
 
 var bot = linebot({
-  channelId:"1545039112",
+  channelId: 1545039112,
   channelSecret:"a6cf4351fd215666037525277bb2a40e",
   channelAccessToken:"q0/4EYQwXDFtpM3HjxntcA48HFN/Jd/uKH1AvNqhKlhyODpzTpT9ccZcbt7a+L1HRRBbSU18ZfpWbS62YWmFLMsvmhVwveKDsHnbuM+jgXOnmCD34zSP1Q19akAnQ8TYMZShi9QDZYDznwRnb/Mi4AdB04t89/1O/w1cDnyilFU="
   });
